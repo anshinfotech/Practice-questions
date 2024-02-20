@@ -17,3 +17,28 @@ Write a JavaScript program that prompts the user to enter their age and whether 
 Create a function that takes a number as input and returns "Positive" if it's greater than 0, "Negative" if it's less than 0, and "Zero" if it's equal to 0.
 
 Implement a program that calculates the grade of a student based on their score. If the score is between 90 and 100, assign an "A" grade, between 80 and 89 assign a "B" grade, between 70 and 79 assign a "C" grade, between 60 and 69 assign a "D" grade, and below 60 assign an "F" grade.
+
+Write a JavaScript program that takes three numbers as input and finds the second largest among them.
+
+Create a function that calculates the factorial of a given number. If the factorial is divisible by 10, print "Divisible by 10", otherwise print "Not divisible by 10".
+
+Implement a program that simulates a rock-paper-scissors game against the computer. Use functions and conditional statements to determine the winner.
+
+Write a JavaScript function that takes an array of integers as input and returns the sum of all numbers greater than 10.
+
+Develop a program that checks if a given string is a palindrome (reads the same forwards and backwards), ignoring spaces and punctuation.
+
+Create a function that takes a number as input and prints all the prime numbers up to that number.
+
+Implement a program that generates a random number between 1 and 100 and allows the user to guess the number. Provide hints (higher/lower) based on the user's guesses until they guess correctly.
+
+Write a JavaScript function that takes a sentence as input and returns the word with the highest number of vowels.
+
+Develop a program that simulates a simple ATM. Allow the user to check balance, deposit money, and withdraw money. Ensure to handle cases such as insufficient balance.
+
+Create a function that takes a string as input and returns the most frequent character(s) in the string. If there are multiple characters with the same frequency, return all of them.    
+
+
+
+
+Do the questions using both if else and switch methods
