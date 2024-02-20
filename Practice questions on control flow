@@ -1,0 +1,19 @@
+Write a JavaScript function that takes a number as input and returns "Even" if the number is even and "Odd" if it's odd.
+
+Create a program that prompts the user to enter their age. If the age is less than 18, display a message "You are a minor", otherwise display "You are an adult".
+
+Write a function that takes three numbers as input and returns the largest of the three.
+
+Develop a program that calculates the total cost of purchasing items from a shopping cart. If the total cost is over $100, apply a 10% discount; otherwise, no discount is applied.
+
+Create a function that takes a string as input and returns "Long word" if the length of the string is greater than 10 characters, "Short word" if it's less than 5 characters, and "Medium word" otherwise.
+
+Implement a program that checks whether a given year is a leap year. If the year is divisible by 4 but not divisible by 100, or if it's divisible by 400, it's a leap year.
+
+Develop a function that takes two parameters, a string representing a username and a string representing a password. If the username is "admin" and the password is "admin123", return "Welcome, admin!". Otherwise, return "Invalid credentials".
+
+Write a JavaScript program that prompts the user to enter their age and whether they have a driver's license (true or false). If the age is at least 16 and they have a driver's license, display "You are eligible to drive", otherwise display "You are not eligible to drive".
+
+Create a function that takes a number as input and returns "Positive" if it's greater than 0, "Negative" if it's less than 0, and "Zero" if it's equal to 0.
+
+Implement a program that calculates the grade of a student based on their score. If the score is between 90 and 100, assign an "A" grade, between 80 and 89 assign a "B" grade, between 70 and 79 assign a "C" grade, between 60 and 69 assign a "D" grade, and below 60 assign an "F" grade.
