@@ -1,0 +1,20 @@
+Write a function that takes a string as input and returns a new string with all vowels removed.
+Write a function that takes a string as input and returns a new string with the first letter of each word capitalized.
+Write a function that takes a string as input and returns true if it is a palindrome, false otherwise.
+Write a function that takes an array of numbers as input and returns a new array with only the even numbers.
+Write a function that takes an array of objects as input and returns a new array with only the objects that have a specific property with a certain value.
+Write a function that takes an array of numbers as input and returns the sum of all the numbers.
+Write a loop that prints all the numbers from 1 to 100.
+Write a loop that iterates over an array of strings and prints each string in uppercase.
+Write a nested loop that creates a multiplication table for a given number.
+Write a loop that asks the user for input until they enter a specific keyword.
+Write a loop that simulates a coin flip, printing "Heads" or "Tails" for each flip.
+Write a loop that calculates the factorial of a given number.
+Write a function that takes an array of numbers as input and returns a new array with the numbers sorted in ascending order.
+Write a function that takes an array of objects as input and returns a new array with only the objects that have a certain property within a specific range of values.
+Write a function that takes an array of numbers as input and returns a new array containing only the unique elements.
+Write a function that takes a number as input and prints a right-angled triangle of asterisks with that number as the base.
+Write a function that takes a string as input and checks if it contains any uppercase letters.
+Write a function that takes an array of strings as input and returns a new array with only the strings that start with a specific letter.
+Write a function that creates a Right Triangle Star Pattern in Javascript
+Write a function that creates a Left Triangle Star Pattern in Javascript
